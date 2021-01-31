@@ -1,0 +1,58 @@
+
+/              Header                 /
+
+
+header {
+    background-color: #e3dbdb;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: #4e3d42;
+    font-size: 1.5em;
+    line-height: 1em;
+}
+
+
+
+.main-h1 {
+    color: #e3dbdb;
+    margin: 15px 0;
+    padding: 30px 0 0 0;
+    font-size: 2em;
+    line-height: 1em;
+}
+
+
+  
+
+/             FOOTER                /
+footer {
+    background-color: #c9d5b;
+    text-align: center;
+    color: #e3dbdb;
+    height: 50px;
+    padding-top: 20px;
+}
+/                    MEDIA QUERIES                          /
+
+@media screen and (min-width: 634px) {
+
+  ul.main-nav {float: right;
+        width: 60%;
+        margin-top: -30px;
+        margin-bottom: 30px;}
+   
+
+@media screen and (min-width: 1045px) {
+
+    ul.main-nav {
+        float: right;
+        width: 60%;
+        margin-top: -30px;
+        margin-bottom: 30px;
+    }
+    
+  
+    
